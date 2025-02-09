@@ -137,3 +137,34 @@ After each stage of your project, check if the row count in the produced table i
 
 <hr>
 
+## Project Files 📂
+
+- ### 1. Project Data
+- **Description**: Contains all three JSON data sources.
+   - [customer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing)
+
+   - [accelerometer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/accelerometer/landing)
+
+   - [step_trainer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/step_trainer/landing)
+
+### 2. SQL Code
+- **Description**: Contains all the SQL DDL scripts for landing, trusted, and curated zones.
+  - [customer_landing_zone.sql]
+  - [accelerometer_landing_zone.sql]
+  - [step_trainer_landing_zone.sql]
+  - [customer_trusted_zone.sql]
+  - [accelerometer_trusted_zone.sql]
+  - [step_trainer_trusted_zone.sql]
+  - [customers_curated.sql]
+  - [machine_learning_curated.sql]
+
+### 3. Python Code
+- **Description**: Contains all the Glue job Python scripts.
+  - [customer_trusted.py]
+  - [accelerometer_trusted.py]
+  - [customers_curated.py]
+  - [step_trainer_trusted.py]
+  - [machine_learning_curated.py]
+
+### 4. Screenshots : *Contains all the visual ETL and Athena outputs.*
+  
