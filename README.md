@@ -163,7 +163,7 @@ After each stage of your project, check if the row count in the produced table i
   - [customer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_landing_to_trusted.py)
   - [accelerometer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/accelerometer_landing_to_trusted.py)
   - [step_trainer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/step_trainer_landing_to_trusted.py)
-  - [customers_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customers_curated.py)
+  - [customers_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_curated.py)
   - [machine_learning_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/machine_learning_curated.py)
 
 ### 4. Screenshots : *Contains all the visual ETL and Athena outputs.*
