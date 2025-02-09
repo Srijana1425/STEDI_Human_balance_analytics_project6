@@ -155,15 +155,15 @@ After each stage of your project, check if the row count in the produced table i
   - [customer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_trusted.sql)
   - [accelerometer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/accelerometer_trusted.sql)
   - [step_trainer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/Step_trainer_trusted.sql)
-  - [customers_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_curated.sql)
+  - [customer_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_curated.sql)
   - [machine_learning_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/machine_learning_curated.sql)
 
 ### 3. Python Code
 - **Description**: Contains all the Glue job Python scripts.
   - [customer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_landing_to_trusted.py)
   - [accelerometer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/accelerometer_landing_to_trusted.py)
-  - [step_trainer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/step_trainer_landing_to_trusted.py)
-  - [customers_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_curated.py)
+  - [step_trainer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/steptraining_landing_to_trusted.py)
+  - [customer_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_curated.py)
   - [machine_learning_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/machine_learning_curated.py)
 
 ### 4. Screenshots : *Contains all the visual ETL and Athena outputs.*
