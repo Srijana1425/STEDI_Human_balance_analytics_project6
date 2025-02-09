@@ -1,23 +1,21 @@
 # 🚀 STEDI-Human-Balance-Analytics
-## Project Overview
+## Project Overview 📈
 This project involves processing and analyzing data from the STEDI Step Trainer, which includes Customer Records, Step Trainer Records, and Accelerometer Records. The goal is to create a data pipeline using AWS Glue, AWS S3, and Athena to transform and sanitize the data for further analysis.
 
-## Project Environment
+## Project Environment 🌐
 - Python and Spark
 - AWS Glue
 - AWS Athena
 - AWS S3
 
-## Project Data
+## Project Data 📊
 STEDI has three JSON data sources
 
 [customer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing)
-
 [accelerometer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/accelerometer/landing)
-
 [step_trainer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/step_trainer/landing)
 
-## Project Steps -
+## Project Steps 📝
 
 Here are the brief steps to follow on the AWS website to complete this project :
 
@@ -139,15 +137,13 @@ After each stage of your project, check if the row count in the produced table i
 
 ## Project Files 📂
 
-- ### 1. Project Data
+- ### 1. Project Data 🗂️
 - **Description**: Contains all three JSON data sources.
    - [customer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing)
-
    - [accelerometer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/accelerometer/landing)
-
    - [step_trainer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/step_trainer/landing)
 
-### 2. SQL Code
+### 2. SQL Code 💻
 - **Description**: Contains all the SQL DDL scripts for landing, trusted, and curated zones.
   - [customer_landing.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_landing.sql)
   - [accelerometer_landing.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/accelerometer_landing.sql)
@@ -158,7 +154,7 @@ After each stage of your project, check if the row count in the produced table i
   - [customer_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_curated.sql)
   - [machine_learning_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/machine_learning_curated.sql)
 
-### 3. Python Code
+### 3. Python Code 🐍
 - **Description**: Contains all the Glue job Python scripts.
   - [customer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_landing_to_trusted.py)
   - [accelerometer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/accelerometer_landing_to_trusted.py)
@@ -166,5 +162,5 @@ After each stage of your project, check if the row count in the produced table i
   - [customer_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_curated.py)
   - [machine_learning_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/machine_learning_curated.py)
 
-### 4. Screenshots : *Contains all the visual ETL and Athena outputs.*
+### 4. Screenshots 📸: *Contains all the visual ETL and Athena outputs.*
   
