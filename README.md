@@ -135,7 +135,7 @@ After each stage of your project, check if the row count in the produced table i
 <hr>
 
 ## Project Files 📂
-
+To further understanding this project, please refer to the following files in my repository:
 - ### 1. Project Data 🗂️
 - **Description**: Contains all three JSON data sources.
    - [customer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing)
