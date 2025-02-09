@@ -161,7 +161,6 @@ To further understanding this project, please refer to the following files in my
   - [customer_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_curated.py)
   - [machine_learning_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/machine_learning_curated.py)
 
-### 4. Screenshots 📸: 
-Contains all the visual ETL and Athena outputs.
+### 4. Screenshots 📸 : Contains all the visual ETL and Athena outputs.
 
   
