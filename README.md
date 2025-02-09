@@ -9,11 +9,10 @@ This project involves processing and analyzing data from the STEDI Step Trainer,
 - AWS S3
 
 ## Project Data 📊
-STEDI has three JSON data sources
-
-[customer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing) <br>
-[accelerometer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/accelerometer/landing) <br>
-[step_trainer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/step_trainer/landing)
+STEDI has three JSON data sources : <br>
+- [customer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing) <br>
+- [accelerometer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/accelerometer/landing) <br>
+- [step_trainer](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/step_trainer/landing)
 
 ## Project Steps 📝
 
