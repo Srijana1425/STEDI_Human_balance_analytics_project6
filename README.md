@@ -110,13 +110,6 @@ Create a Glue job to aggregate step trainer readings with accelerometer data for
 
 Remember to monitor your AWS costs to stay within your budget.
 
-
-
-
-
-
-
-
 ## Check your work!
 After each stage of your project, check if the row count in the produced table is correct. You should have the following number of rows in each table:
 
@@ -141,4 +134,6 @@ After each stage of your project, check if the row count in the produced table i
 - `Customer: 482`
 
 - `Machine Learning: 43681`
+
+<hr>
 
