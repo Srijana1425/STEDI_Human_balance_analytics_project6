@@ -2,6 +2,12 @@
 ## Project Overview
 This project involves processing and analyzing data from the STEDI Step Trainer, which includes Customer Records, Step Trainer Records, and Accelerometer Records. The goal is to create a data pipeline using AWS Glue, AWS S3, and Athena to transform and sanitize the data for further analysis.
 
+## Project Environment
+- Python and Spark
+- AWS Glue
+- AWS Athena
+- AWS S3
+
 ## Project Data
 STEDI has three JSON data sources
 
@@ -98,7 +104,7 @@ Create a Glue job to aggregate step trainer readings with accelerometer data for
 
 1. Go back to **Athena**.
 
-2. Run SQL queries to verify the data in the   customer_trusted_zone , `accelerometer_trusted_zone`, customers_curated, and `machine_learning_curated` tables.
+2. Run SQL queries to verify the data in the   customer_trusted_zone , `accelerometer_trusted_zone`,`customers_curated`, and `machine_learning_curated` tables.
 
 3. Take screenshots of your query results.
 
