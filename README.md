@@ -1,28 +1,56 @@
-### 🚀 STEDI-Human-Balance-Analytics
+# 🚀 STEDI-Human-Balance-Analytics
 ## Project Overview
 This project involves processing and analyzing data from the STEDI Step Trainer, which includes Customer Records, Step Trainer Records, and Accelerometer Records. The goal is to create a data pipeline using AWS Glue, AWS S3, and Athena to transform and sanitize the data for further analysis.
 
 ## Data Sources
-### 📂 Customer Records
+# 📂 Customer Records
 Data from the fulfillment and the STEDI website.
 
-AWS S3 Bucket URI: s3://cd0030bucket/customers/
+Fields: 
 
-Fields: serialnumber, sharewithpublicasofdate, birthday, registrationdate, sharewithresearchasofdate, customername, email, lastupdatedate, phone, sharewithfriendsasofdate
+- serialnumber
 
-## 📉 Step Trainer Records
+- sharewithpublicasofdate
+
+- birthday
+
+- registrationdate
+
+- sharewithresearchasofdate
+
+- customername
+
+- email
+
+- lastupdatedate
+
+- phone
+
+- sharewithfriendsasofdate
+
+# 📉 Step Trainer Records
 Data from the motion sensor.
 
-AWS S3 Bucket URI: s3://cd0030bucket/step_trainer/
+Fields: 
 
-Fields: sensorReadingTime, serialNumber, distanceFromObject
+- sensorReadingTime 
 
-## 📱 Accelerometer Records
+- serialNumber 
+
+- distanceFromObject
+
+# 📱 Accelerometer Records
 Data from the mobile app.
 
-AWS S3 Bucket URI: s3://cd0030bucket/accelerometer/
+Fields: 
 
-Fields: timeStamp, user, x, y
+- timeStamp
+
+- user
+
+- x 
+
+- y
 
 ## Project Requirements
 # 🚀 Landing Zones:
