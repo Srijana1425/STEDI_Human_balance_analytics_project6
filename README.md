@@ -25,7 +25,7 @@ After each stage of your project, check if the row count in the produced table i
 
 # Landing
 
-Customer: 956
+- `Customer: 956`
 
 ![](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/screenshort/Athena%20Output/Customer_landing_zone.png)
 
