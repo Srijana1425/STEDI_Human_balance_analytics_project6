@@ -17,54 +17,46 @@ STEDI has three JSON data sources
 
 
 
-# Data Sources
-### 📂 Customer Records
-Data from the fulfillment and the STEDI website.[customer data](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing)
-
-Fields: 
-
-- `serialnumber`
-
-- `sharewithpublicasofdate`
-
-- `birthday`
-
-- `registrationdate`
-
-- `sharewithresearchasofdate`
-
-- `customername`
-
-- `email`
-
-- `lastupdatedate`
-
-- `phone`
-
-- `sharewithfriendsasofdate`
-
-### 📉 Step Trainer Records
-Data from the motion sensor.
-
-Fields: 
-
-- `sensorReadingTime` 
-
-- `serialNumber` 
-
-- `distanceFromObject`
-
-### 📱 Accelerometer Records
-Data from the mobile app.
-
-Fields: 
-
-- `timeStamp`
-
-- `user`
-
-- `x` 
-
-- `y`
 
 
+
+## Check your work!
+After each stage of your project, check if the row count in the produced table is correct. You should have the following number of rows in each table:
+
+# Landing
+
+Customer: 956
+
+![]()
+
+Accelerometer: 81273
+
+![]()
+
+Step Trainer: 28680
+
+![]()
+
+# Trusted
+
+Customer: 482
+
+![]()
+
+Accelerometer: 40981
+
+![]()
+
+Step Trainer: 14460
+
+![]()
+
+# Curated
+
+Customer: 482
+
+![]()
+
+Machine Learning: 43681
+
+![]()
