@@ -23,7 +23,7 @@ STEDI has three JSON data sources
 ## Check your work!
 After each stage of your project, check if the row count in the produced table is correct. You should have the following number of rows in each table:
 
-# Landing
+### Landing
 
 - `Customer: 956`
   
@@ -31,7 +31,7 @@ After each stage of your project, check if the row count in the produced table i
   
 - `Step Trainer: 28680`
   
-# Trusted
+### Trusted
 
 - `Customer: 482`
 
@@ -39,7 +39,7 @@ After each stage of your project, check if the row count in the produced table i
 
 - `Step Trainer: 14460`
 
-# Curated
+### Curated
 
 - `Customer: 482`
 
