@@ -4,7 +4,7 @@ This project involves processing and analyzing data from the STEDI Step Trainer,
 
 # Data Sources
 ### 📂 Customer Records
-Data from the fulfillment and the STEDI website.![customer data](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing)
+Data from the fulfillment and the STEDI website.[customer data](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/myproject-files/customer/landing)
 
 Fields: 
 
