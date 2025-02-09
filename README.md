@@ -1,6 +1,6 @@
 # 🚀 STEDI-Human-Balance-Analytics
 ## Project Overview 📈
-This project involves processing and analyzing data from the STEDI Step Trainer, which includes Customer Records, Step Trainer Records, and Accelerometer Records. The goal is to create a data pipeline using AWS Glue, AWS S3, and Athena to transform and sanitize the data for further analysis.
+This project involves processing and analyzing data from the STEDI Step Trainer, which includes **Customer Records**, **Step Trainer Records**, and **Accelerometer Records**. The goal is to create a data pipeline using **AWS Glue**, **AWS S3**, and **Athena** to transform and sanitize the data for further analysis.
 
 ## Project Environment 🌐
 - Python and Spark
