@@ -155,7 +155,7 @@ After each stage of your project, check if the row count in the produced table i
   - [customer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_trusted.sql)
   - [accelerometer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/accelerometer_trusted.sql)
   - [step_trainer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/Step_trainer_trusted.sql)
-  - [customers_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customers_curated.sql)
+  - [customers_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_curated.sql)
   - [machine_learning_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/machine_learning_curated.sql)
 
 ### 3. Python Code
