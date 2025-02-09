@@ -41,7 +41,7 @@ After each stage of your project, check if the row count in the produced table i
 
 - `Customer: 482`
 
-![](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/screenshort/Athena%20Output/customer_landing_zone.png)
+![](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/screenshort/Athena%20Output/customer_trusted_zone.png)
 
 - `Accelerometer: 40981`
 
