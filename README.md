@@ -149,22 +149,22 @@ After each stage of your project, check if the row count in the produced table i
 
 ### 2. SQL Code
 - **Description**: Contains all the SQL DDL scripts for landing, trusted, and curated zones.
-  - [customer_landing_zone.sql]
-  - [accelerometer_landing_zone.sql]
-  - [step_trainer_landing_zone.sql]
-  - [customer_trusted_zone.sql]
-  - [accelerometer_trusted_zone.sql]
-  - [step_trainer_trusted_zone.sql]
-  - [customers_curated.sql]
-  - [machine_learning_curated.sql]
+  - [customer_landing.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_landing.sql)
+  - [accelerometer_landing.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/accelerometer_landing.sql)
+  - [step_trainer_landing.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/step_trainer_landing.sql)
+  - [customer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customer_trusted.sql)
+  - [accelerometer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/accelerometer_trusted.sql)
+  - [step_trainer_trusted.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/step_trainer_trusted.sql)
+  - [customers_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/customers_curated.sql)
+  - [machine_learning_curated.sql](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/SQL%20code/machine_learning_curated.sql)
 
 ### 3. Python Code
 - **Description**: Contains all the Glue job Python scripts.
-  - [customer_trusted.py]
-  - [accelerometer_trusted.py]
-  - [customers_curated.py]
-  - [step_trainer_trusted.py]
-  - [machine_learning_curated.py]
+  - [customer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customer_landing_to_trusted.py)
+  - [accelerometer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/accelerometer_landing_to_trusted.py)
+  - [step_trainer_trusted.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/step_trainer_landing_to_trusted.py)
+  - [customers_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/customers_curated.py)
+  - [machine_learning_curated.py](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/blob/main/python%20code/machine_learning_curated.py)
 
 ### 4. Screenshots : *Contains all the visual ETL and Athena outputs.*
   
