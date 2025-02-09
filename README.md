@@ -104,9 +104,9 @@ Create a Glue job to aggregate step trainer readings with accelerometer data for
 
 1. Go back to **Athena**.
 
-2. Run SQL queries to verify the data in the   customer_trusted_zone , `accelerometer_trusted_zone`,`customers_curated`, and `machine_learning_curated` tables.
+2. Run SQL queries to verify the data in the `customer_trusted_zone` , `accelerometer_trusted_zone`,`step_trainer_trusted_zone` , `customers_curated`, and `machine_learning_curated` tables.
 
-3. Take screenshots of your query results.
+3. Take screenshots of your query results.[Here is my [Athena output](https://github.com/Srijana1425/STEDI_Human_balance_analytics_project6/tree/main/screenshort/Athena%20Output)]
 
 Remember to monitor your AWS costs to stay within your budget.
 
